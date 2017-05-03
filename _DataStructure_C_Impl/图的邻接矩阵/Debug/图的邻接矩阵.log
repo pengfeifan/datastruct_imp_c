@@ -1,0 +1,37 @@
+﻿生成启动时间为 2015/8/10 21:35:07。
+     1>项目“D:\code\c++\_DataStructure_C_Impl\图的邻接矩阵\图的邻接矩阵.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\图的邻接矩阵.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MGraph.cpp
+         MGraph.cpp
+     1>d:\code\c++\_datastructure_c_impl\图的邻接矩阵\mgraph.cpp(36): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\code\c++\_datastructure_c_impl\图的邻接矩阵\mgraph.cpp(39): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\code\c++\_datastructure_c_impl\图的邻接矩阵\mgraph.cpp(47): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\code\c++\_datastructure_c_impl\图的邻接矩阵\mgraph.cpp(53): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(277) : 参见“gets”的声明
+     1>d:\code\c++\_datastructure_c_impl\图的邻接矩阵\mgraph.cpp(57): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+       ManifestResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\图的邻接矩阵.exe.embed.manifest.res" "Debug\图的邻接矩阵_manifest.rc" 
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\code\c++\_DataStructure_C_Impl\Debug\图的邻接矩阵.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\图的邻接矩阵.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\code\c++\_DataStructure_C_Impl\Debug\图的邻接矩阵.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\code\c++\_DataStructure_C_Impl\Debug\图的邻接矩阵.lib" /MACHINE:X86 "Debug\图的邻接矩阵.exe.embed.manifest.res"
+         Debug\MGraph.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\图的邻接矩阵.exe.embed.manifest" /manifest "Debug\图的邻接矩阵.exe.intermediate.manifest"
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\图的邻接矩阵.exe.embed.manifest.res" "Debug\图的邻接矩阵_manifest.rc" 
+       LinkEmbedManifest:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\code\c++\_DataStructure_C_Impl\Debug\图的邻接矩阵.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\图的邻接矩阵.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\code\c++\_DataStructure_C_Impl\Debug\图的邻接矩阵.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\code\c++\_DataStructure_C_Impl\Debug\图的邻接矩阵.lib" /MACHINE:X86 "Debug\图的邻接矩阵.exe.embed.manifest.res"
+         Debug\MGraph.obj
+         图的邻接矩阵.vcxproj -> D:\code\c++\_DataStructure_C_Impl\Debug\图的邻接矩阵.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\图的邻接矩阵.unsuccessfulbuild”。
+         正在对“Debug\图的邻接矩阵.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\code\c++\_DataStructure_C_Impl\图的邻接矩阵\图的邻接矩阵.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:11.74
